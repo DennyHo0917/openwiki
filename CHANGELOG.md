@@ -1,5 +1,11 @@
 # openwiki
 
+## 0.7.2
+
+### Patch Changes
+
+- [#1003](https://github.com/langchain-ai/openwiki/pull/1003) [`d1c7fc7`](https://github.com/langchain-ai/openwiki/commit/d1c7fc75a6a906da258cd94dbcb1602f98516480) Thanks [@ilaigold](https://github.com/ilaigold)! - fix: allow jsdom 30 as an optional peer
+
 ## 0.7.1
 
 ### Patch Changes
